@@ -6,6 +6,9 @@ const App = () => {
   const [data, setData] = useState([]);
   const [name, setName] = useState('');
   const [email, setemail] = useState(''); 
+
+
+  
   
   const [phone, setphone] = useState('');
   const [id, setid] = useState(1);
